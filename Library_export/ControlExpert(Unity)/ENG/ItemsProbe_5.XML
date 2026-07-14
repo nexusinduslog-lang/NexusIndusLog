@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DDTExchangeFile>
+	<DDTSource DDTName="ItemsProbe_5" version="0.01" dateTime="dt#2026-05-29-18:13:46">
+		<attribute name="TypeSignatureCheckSumString" value="1594"></attribute>
+		<structure>
+			<variables name="in1" typeName="DINT"></variables>
+			<variables name="in2" typeName="DINT"></variables>
+		</structure>
+	</DDTSource>
+</DDTExchangeFile>
