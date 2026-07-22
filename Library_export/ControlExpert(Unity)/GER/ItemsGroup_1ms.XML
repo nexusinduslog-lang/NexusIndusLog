@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DDTExchangeFile>
+	<DDTSource DDTName="ItemsGroup_1ms" version="0.13" dateTime="dt#2026-06-12-18:22:27">
+		<attribute name="TypeSignatureCheckSumString" value="CBC6"></attribute>
+		<structure>
+			<variables name="group" typeName="ARRAY[0..18,0..5] OF WORD"></variables>
+			<variables name="checksum" typeName="WORD"></variables>
+			<variables name="nb_value" typeName="INT"></variables>
+			<variables name="mem_tmestamp" typeName="Calc_NTPC"></variables>
+			<variables name="reserve_1" typeName="WORD"></variables>
+			<variables name="reserve_2" typeName="WORD"></variables>
+		</structure>
+	</DDTSource>
+</DDTExchangeFile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DDTExchangeFile>
+	<DDTSource DDTName="ItemsProbe_2" version="0.04" dateTime="dt#2025-12-20-18:29:26">
+		<attribute name="TypeSignatureCheckSumString" value="9FCB"></attribute>
+		<structure>
+			<variables name="in1" typeName="REAL"></variables>
+			<variables name="in2" typeName="REAL"></variables>
+			<variables name="in3" typeName="REAL"></variables>
+			<variables name="in4" typeName="REAL"></variables>
+			<variables name="in5" typeName="REAL"></variables>
+			<variables name="in6" typeName="REAL"></variables>
+		</structure>
+	</DDTSource>
+</DDTExchangeFile>

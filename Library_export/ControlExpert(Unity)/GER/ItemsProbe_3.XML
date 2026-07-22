@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DDTExchangeFile>
+	<DDTSource DDTName="ItemsProbe_3" version="0.03" dateTime="dt#2025-12-20-18:29:26">
+		<attribute name="TypeSignatureCheckSumString" value="3D85"></attribute>
+		<structure>
+			<variables name="in1" typeName="WORD"></variables>
+			<variables name="in2" typeName="WORD"></variables>
+			<variables name="in3" typeName="WORD"></variables>
+			<variables name="in4" typeName="WORD"></variables>
+			<variables name="in5" typeName="WORD"></variables>
+			<variables name="in6" typeName="WORD"></variables>
+			<variables name="in7" typeName="WORD"></variables>
+			<variables name="in8" typeName="WORD"></variables>
+			<variables name="in9" typeName="WORD"></variables>
+			<variables name="in10" typeName="WORD"></variables>
+			<variables name="in11" typeName="WORD"></variables>
+			<variables name="in12" typeName="WORD"></variables>
+		</structure>
+	</DDTSource>
+</DDTExchangeFile>

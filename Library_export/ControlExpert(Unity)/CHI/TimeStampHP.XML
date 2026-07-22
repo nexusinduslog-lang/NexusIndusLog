@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DDTExchangeFile>
+	<DDTSource DDTName="TimeStampHP" version="0.01" dateTime="dt#2026-01-27-20:36:44">
+		<attribute name="TypeSignatureCheckSumString" value="984E"></attribute>
+		<structure>
+			<variables name="Seconds" typeName="UDINT"></variables>
+			<variables name="ms" typeName="INT"></variables>
+			<variables name="us" typeName="INT"></variables>
+		</structure>
+	</DDTSource>
+</DDTExchangeFile>
